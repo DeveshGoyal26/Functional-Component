@@ -1,5 +1,5 @@
 const Universal = (name) => {
-    console.log(name)
+    // console.log(name)
   return (
     <div className="button_div">
     <button>{name.Join}</button>

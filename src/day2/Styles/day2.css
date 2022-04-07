@@ -15,10 +15,10 @@
     /* border:red solid; */
 }
 
-button {
+.Counter_div > div > button {
     color:black;
 }
 
-button:hover {
+.Counter_div > div > button:hover {
     color:white;
 }

@@ -1,14 +1,13 @@
-import logo from './logo.svg';
-import './day1.css';
-import Contactusbtn from './day1/contactusbtn'
-import Download from './day1/Download'
-import Help from './day1/Help'
-import Home from './day1/Home'
-import Settings from './day1/Settings'
-import JoinUs from './day1/JoinUs'
-import Login from './day1/login'
-import Search from './day1/Search'
-import Universal from './day1/Universal';
+import '../Styles/day1.css';
+import Contactusbtn from '../Components/contactusbtn'
+import Download from '../Components/Download'
+import Help from '../Components/Help'
+import Home from '../Components/Home'
+import Settings from '../Components/Settings'
+import JoinUs from '../Components/JoinUs'
+import Login from '../Components/login'
+import Search from '../Components/Search'
+import Universal from '../Components/Universal';
 
 function Data() {
   return (

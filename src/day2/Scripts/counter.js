@@ -1,5 +1,5 @@
-import "./day2.css";
-import Button from "./day2/Counter";
+import "../Styles/day2.css";
+import Button from "../Components/Counter";
 
 function Counter() {
   return (
