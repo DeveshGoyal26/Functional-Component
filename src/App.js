@@ -15,6 +15,8 @@ import ContactUs from "./day2/Components/ContactUs";
 import Counter from "./day2/Scripts/counter";
 
 import Data from "./day1/Scripts/Buttons";
+
+import Todo_func from "./day2/Scripts/Todo"
   
 function App() {
   return (
@@ -27,7 +29,7 @@ function App() {
           <Route path="/Contactus" element={<ContactUs />} />
           <Route path="/Counter" element={<Counter />} />
           <Route path="/Day1" element={<Data />} />
-
+          <Route path="/Todo" element={<Todo_func />} />
         </Route>
       </Routes>
     </BrowserRouter>
