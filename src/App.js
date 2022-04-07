@@ -42,6 +42,7 @@ function App() {
         <Home/>
         <Download/>
       </div>
+      <div></div>
       <h1>Single functional component for Buttons</h1>
       <Universal Join="JOIN US" Sett="SETTINGS" Login="LOGIN" Cont="CONTACT US" Sear="SEARCH" Hel="HELP" Hom="HOME" Down="DOWNLOAD" />
     </div>
