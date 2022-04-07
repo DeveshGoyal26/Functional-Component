@@ -1,0 +1,24 @@
+.Counter_div {
+    display: block;
+    /* margin: auto; */
+    justify-content:center;
+    text-align:center;
+    width:fit-content;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.Counter_div > div {
+    display:flex;
+    flex-direction:column;
+    gap: 10px;
+    /* border:red solid; */
+}
+
+button {
+    color:black;
+}
+
+button:hover {
+    color:white;
+}

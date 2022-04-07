@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './day1.css';
 import Contactusbtn from './day1/contactusbtn'
 import Download from './day1/Download'
 import Help from './day1/Help'
@@ -10,7 +10,7 @@ import Login from './day1/login'
 import Search from './day1/Search'
 import Universal from './day1/Universal';
 
-function App() {
+function Data() {
   return (
     <div className="App">
       <div>
@@ -49,4 +49,4 @@ function App() {
   );
 }
 
-export default App;
+export default Data;
