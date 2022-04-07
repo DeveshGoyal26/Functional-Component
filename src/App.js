@@ -1,14 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import Contactusbtn from './buttons/contactusbtn'
-import Download from './buttons/Download'
-import Help from './buttons/Help'
-import Home from './buttons/Home'
-import Settings from './buttons/Settings'
-import JoinUs from './buttons/JoinUs'
-import Login from './buttons/login'
-import Search from './buttons/Search'
-import Universal from './buttons/Universal';
+import Contactusbtn from './day1/contactusbtn'
+import Download from './day1/Download'
+import Help from './day1/Help'
+import Home from './day1/Home'
+import Settings from './day1/Settings'
+import JoinUs from './day1/JoinUs'
+import Login from './day1/login'
+import Search from './day1/Search'
+import Universal from './day1/Universal';
 
 function App() {
   return (
